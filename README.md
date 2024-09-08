@@ -36,6 +36,13 @@ Image compression is crucial for efficient storage and transmission of images in
 - Matplotlib
 - scikit-learn
 - Pillow (PIL)
+- opencv-python
+- setuptools
+
+  #### You can install the above requirements using the requirements.txt file, Just have to execute the below command:
+  ```bash
+  pip install -r requirements.txt
+  
 
 ## Installation
 
